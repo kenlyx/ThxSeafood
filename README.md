@@ -1,6 +1,6 @@
 # Hot Job Map 
 
-A map for internet programer find jobs,and know the top hot jobs in different cities
+A map(google map api) for internet programer find jobs,and know the top hot jobs in different cities
 
 
 
